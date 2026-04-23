@@ -1,0 +1,36 @@
+# Internal working files
+.private/
+
+# DOCX masters — PDFs are the public deliverable
+*.docx
+
+# Loose notebook figure PNGs (regenerate from the notebook if needed)
+notebook/*.png
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.swp
+*~
+
+# Office lockfiles
+~$*.pdf
+~$*.xlsx
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# Build outputs
+build/
+*.tmp
