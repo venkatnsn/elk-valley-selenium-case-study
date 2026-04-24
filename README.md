@@ -1,4 +1,4 @@
-# Elk Valley Selenium — a self-directed water-quality modelling case study
+# Elk Valley Selenium — a water-quality modelling case study
 
 This is a short technical case study on the selenium problem in the Elk Valley coalfield, British Columbia, Canada. I put it together in my own time as a portfolio piece for water-quality modelling roles, and as a way of pulling together a workflow I use a lot in practice: a calibrated 1D reach-scale transport model, a Latin Hypercube Monte Carlo wrapper for uncertainty, five management scenarios expressed as compliance probabilities, and a simple bioaccumulation step so the water-column numbers can be read against a tissue benchmark.
 
