@@ -29,7 +29,7 @@ The same workflow — calibrate, quantify uncertainty, translate to compliance p
 
 ## Headline results
 
-Every number here appears in the report. I'm listing them again so anyone reading the repo first doesn't have to open the PDF.
+Every number here appears in the report.
 
 | Metric | Value |
 |---|---|
