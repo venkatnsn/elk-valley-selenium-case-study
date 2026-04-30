@@ -21,9 +21,8 @@ The same workflow — calibrate, quantify uncertainty, translate to compliance p
 
 | File | What it is |
 |---|---|
-| `Case_Study.pdf` | The primary deliverable. Four-page technical report: executive summary, methodology, calibration, scenario analysis, bioaccumulation, limitations, conclusions. One figure (compliance bar chart). This is what I attach to applications. |
-| `Methods_Appendix.pdf` | One-page auditable appendix: 11 governing equations, Monte Carlo parameter distributions, station-by-station calibration statistics, scenario summary, sensitivity ranking. |
-| `Case_Study.docx`, `Methods_Appendix.docx` | Editable masters for the two PDFs. |
+| `Case_Study.pdf` | The primary deliverable. Four-page technical report: executive summary, methodology, calibration, scenario analysis, bioaccumulation, limitations, conclusions. One figure (compliance bar chart).|
+| `Methods_Appendix.pdf` |appendix: 11 governing equations, Monte Carlo parameter distributions, station-by-station calibration statistics, scenario summary, sensitivity ranking. |
 | `notebook/ElkValley_Se_Analysis.ipynb` | The Python notebook behind the report (source terms, 1D transport, calibration, 2000-run LHS Monte Carlo, scenarios, bioaccumulation). The markdown is deliberately minimal. Cached outputs may be out of date; re-run before citing specific numbers. |
 
 ---
